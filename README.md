@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luzizilahelena&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -45,7 +45,7 @@
 ---
 
 ### 🌐 Redes
-- 💼 LinkedIn: **Luzizila Helena**
+- LinkedIn: **Luzizila Helena**
 
 ---
 
