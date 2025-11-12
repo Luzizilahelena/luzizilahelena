@@ -50,4 +50,4 @@
 
 ---
 
-✨ *“A persistência é o caminho do êxito.”*  
+✨ “A persistência e as escolhas definem o êxito: faça as suas escolhas e seja a sua maior motivação.” 
