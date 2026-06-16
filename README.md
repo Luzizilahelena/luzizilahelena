@@ -4,7 +4,7 @@
 ---
 
 ### Sobre mim
-- Transcender da Escola 42 Luanda
+- Transcender na Escola 42 Luanda
 - Foco em desenvolvimento de software e engenharia de sistemas
 - Gosto de resolver problemas e criar soluções que causam impacto real 
 - Em constante aprendizagem sobre redes, containers, sistemas operativos e servidores web
